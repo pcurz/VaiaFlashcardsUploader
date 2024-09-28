@@ -1,0 +1,19 @@
+[
+    {
+      "text": "What is the capital of France?",
+      "answers": [
+        { "text": "Paris", "correct": true },
+        { "text": "London", "correct": false },
+        { "text": "Madrid", "correct": false }
+      ]
+    },
+    {
+      "text": "What is the capital of Spain?",
+      "answers": [
+        { "text": "Madrid", "correct": true },
+        { "text": "Barcelona", "correct": false },
+        { "text": "Valencia", "correct": false }
+      ]
+    }
+  ]
+  
